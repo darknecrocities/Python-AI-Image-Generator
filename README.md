@@ -119,8 +119,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 Questions or suggestions? Feel free to reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
+- GitHub: [darknecrocities](https://github.com/darknecrocities/Python-AI-Image-Generator/tree/main/Documents/Portfolio%20Projecr/AI%20Image%20Generator)
+- Email: parejasarronkian@gmail.com
 Happy Generating! 🌟
 
